@@ -28,4 +28,4 @@ Follow these steps to run the game on your computer:
 
 1. Clone this repository
 ```bash
-git clone https://github.com/dilshankumara001001/snake-game-python.git
+https://github.com/dilshankumara001001/snake-game-python.git
